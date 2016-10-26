@@ -1,9 +1,9 @@
-1=The lost password feature is disabled
-2=Invalid username
-3=Invalid code
-4=No such user
-5=Account is suspended
-6=Invalid email address on file.  Contact your webhost.
+1=Wachtwoord vergeten is uitgeschakeld
+2=Verkeerde gebruikersnaam
+3=Verkeerde code
+4=Deze gebruiker bestaat niet
+5=Account is uitgeschakeld
+6=Verkeerd email adres bekend. Neem contact op met uw webhost.
 7=No such username in the request list.  Your request may have expired.
 8=Your request has expired.
 9=Code does not match
